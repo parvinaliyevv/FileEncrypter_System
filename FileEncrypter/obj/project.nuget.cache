@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wY5goz2zZB9yTK37KeaYrlM3HB1MacTHbHE6KeAT1sNevlHe3q3fJyXu0oTLY9z/0G5+O1OM6NtMBfaL0/QCDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\FileEncrypter\\FileEncrypter\\FileEncrypter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\ookii.dialogs.wpf\\5.0.1\\ookii.dialogs.wpf.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
