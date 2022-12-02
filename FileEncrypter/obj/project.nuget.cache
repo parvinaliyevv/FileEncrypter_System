@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wY5goz2zZB9yTK37KeaYrlM3HB1MacTHbHE6KeAT1sNevlHe3q3fJyXu0oTLY9z/0G5+O1OM6NtMBfaL0/QCDA==",
+  "dgSpecHash": "ovBbIjRGcFb0mgF7+dVyu4iq5K0YUy3mrzpKCRqFw/4cV26Ci7OSQmBFo0EtX91sdOHqTv+Dd949MwVA8yTR/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\FileEncrypter\\FileEncrypter\\FileEncrypter.csproj",
+  "projectFilePath": "C:\\Users\\Aliy_ql08\\Desktop\\New folder (2)\\SystemProgramming-Homework_30.06.2022\\FileEncrypter\\FileEncrypter.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\HP\\.nuget\\packages\\ookii.dialogs.wpf\\5.0.1\\ookii.dialogs.wpf.5.0.1.nupkg.sha512"
+    "C:\\Users\\Aliy_ql08\\.nuget\\packages\\ookii.dialogs.wpf\\5.0.1\\ookii.dialogs.wpf.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }
